@@ -1,0 +1,24 @@
+PS C:\Users\Admin\AndroidStudioProjects\recipes> flutter run
+Using hardware rendering with device Android SDK built for x86. If you notice graphics artifacts, consider enabling
+software rendering with "--enable-software-rendering".
+Launching lib\main.dart on Android SDK built for x86 in debug mode...
+Running Gradle task 'assembleDebug'...                             11.4s
+√  Built build\app\outputs\flutter-apk\app-debug.apk.
+Installing build\app\outputs\flutter-apk\app.apk...                621ms
+Syncing files to device Android SDK built for x86...                53ms
+
+Flutter run key commands.
+r Hot reload.
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+ Running with sound null safety
+
+An Observatory debugger and profiler on Android SDK built for x86 is available at: http://127.0.0.1:55430/FKbxWU88Rmo=/
+The Flutter DevTools debugger and profiler on Android SDK built for x86 is available at:
+http://127.0.0.1:9101?uri=http://127.0.0.1:55430/FKbxWU88Rmo=/
+Application finished.
+Terminate batch job (Y/N)?
